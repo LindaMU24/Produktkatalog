@@ -1,6 +1,8 @@
+import javax.xml.catalog.Catalog;
+
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello world!");
+        Catalog catalog = new Catalog();
     }
 }
